@@ -1,0 +1,7 @@
+{
+  "name": "stefan",
+  "compatibility_date": "2026-5-19", // 更为今日
+  "assets": {
+    "directory": "./dist",
+  },
+}
