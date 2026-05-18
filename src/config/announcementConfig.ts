@@ -2,10 +2,10 @@ import type { AnnouncementConfig } from "../types/config";
 
 export const announcementConfig: AnnouncementConfig = {
 	// 公告标题
-	title: "公告",
+	title: "Google太坏了！",
 
 	// 公告内容
-	content: "欢迎来到我的博客！这是一则示例公告。",
+	content: "Google 在悄悄改变安卓设备上安装应用的方式。了解详情点击下方链接，希望大家都能继续享受自由安装应用的乐趣！",
 
 	// 是否允许用户关闭公告
 	closable: true,
@@ -14,10 +14,10 @@ export const announcementConfig: AnnouncementConfig = {
 		// 启用链接
 		enable: true,
 		// 链接文本
-		text: "了解更多",
+		text: "https://keepandroidopen.org/",
 		// 链接 URL
-		url: "/about/",
+		url: "https://keepandroidopen.org/",
 		// 内部链接
-		external: false,
+		external: true,
 	},
 };
