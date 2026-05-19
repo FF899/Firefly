@@ -85,11 +85,11 @@ ibus-setup  //启动 IBus 配置工具,会有图形化界面，在里面配置
 - **设置键盘输入法**：
     - 在 **Input Sources**（输入源）下，点击 **+**，选择 **Chinese**（中文），然后选择你之前安装的拼音输入法（如 **Pinyin** 或 **Libpinyin**）。
     - 点击 **Add** 添加。
-2. 输入法设置都比较简单，[KDE桌面看这里](Debian系统KDE桌面环境输入法与权限设置.md)
+2. 输入法设置都比较简单，[KDE桌面看这里](src/content/posts/Linux/系统安装/Debian系统KDE桌面环境输入法与权限设置)
 ---
 ## 3.安装nvidia驱动
 - kali中安装NVIDIA驱动非常简单，不需要建立黑名单之类的
-- 具体流程看：[Kali系统安装NVIDIA显卡驱动指南](Kali系统安装NVIDIA显卡驱动指南.md)
+- 具体流程看：[Kali系统安装NVIDIA显卡驱动指南](src/content/posts/Linux/系统安装/Kali系统安装NVIDIA显卡驱动指南)
 
 ---
 ## 4.安装软件
