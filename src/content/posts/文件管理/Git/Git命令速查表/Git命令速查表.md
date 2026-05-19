@@ -1,8 +1,8 @@
 ---
 title: Git命令速查表
-published: 2025-05-20
+published: 2026-05-20
 description: 一份Git命令速查表
-image: /assets/images/miao.png
+image: /assets/images/Git图标.png
 tags:
   - Git
   - Github
