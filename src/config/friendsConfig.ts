@@ -33,7 +33,7 @@ export const friendsConfig: FriendLink[] = [
 		enabled: true, // 是否启用
 	},
 	{
-		title: "Firefly Docs",
+		title: "Firefly 文档",
 		imgurl: "https://docs-firefly.cuteleaf.cn/logo.png",
 		desc: "Firefly主题模板文档",
 		siteurl: "https://docs-firefly.cuteleaf.cn",
@@ -42,10 +42,10 @@ export const friendsConfig: FriendLink[] = [
 		enabled: true,
 	},
 	{
-		title: "Astro",
+		title: "Astro 文档",
 		imgurl: "https://avatars.githubusercontent.com/u/44914786?v=4&s=640",
-		desc: "The web framework for content-driven websites. ⭐️ Star to support our work!",
-		siteurl: "https://github.com/withastro/astro",
+		desc: "Astro 静态站点生成器，构建更快、更轻量级的网站。",
+		siteurl: "https://docs.astro.build/zh-cn/getting-started/",
 		tags: ["Framework"],
 		weight: 8,
 		enabled: true,

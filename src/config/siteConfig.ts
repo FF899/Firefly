@@ -7,7 +7,7 @@ const SITE_LANG = "zh_CN";
 
 export const siteConfig: SiteConfig = {
 	// 站点标题
-	title: "牛逼仔 F_F",
+	title: "F_F's Blog",
 
 	// 站点副标题
 	subtitle: "",
@@ -21,10 +21,12 @@ export const siteConfig: SiteConfig = {
 
 	// 站点关键词
 	keywords: [
-		"Firefly",
-		"Fuwari",
-		"Astro",
-		"ACGN",
+		"niubizai",
+		"F_F",
+		"FF",
+		"ff",
+		"牛逼仔",
+		"牛逼仔.com",
 		"博客",
 		"技术博客",
 		"静态博客",
@@ -75,8 +77,8 @@ export const siteConfig: SiteConfig = {
 		// 4. 网络图片: { type: "url", value: "https://example.com/logo.png", alt: "Logo" }
 		logo: {
 			type: "image",
-			value: "assets/images/firefly.png",
-			alt: "🍀",
+			value: "assets/images/stefan.png",
+			alt: "🤠",
 		},
 		// 导航栏标题
 		title: "F_F",
@@ -137,7 +139,7 @@ export const siteConfig: SiteConfig = {
 		// 番组计划页面开关，含追番、游戏、书籍和音乐，dev调试时只获取一页数据，build才会获取全部数据
 		bangumi: false,
 		// 相册页面开关
-		gallery: false,
+		gallery: true,
 	},
 
 	// 分类导航栏开关，在首页和归档页顶部显示分类快捷导航
