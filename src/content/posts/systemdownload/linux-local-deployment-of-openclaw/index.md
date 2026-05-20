@@ -8,12 +8,12 @@ tags:
 category: OpenClaw
 draft: false
 ---
-
+%%  %%
 > 为了安全性，最好还是放在Docker或虚拟机里
 
 # 1. 下载nodejs
 1. 登陆[nodejs下载页](https://nodejs.org/zh-cn/download)
-![](src/content/posts/Linux/系统安装/linux本地部署龙虾OpenClaw/附件/nodejs下载页.png)
+![](nodejs下载页.png)
 2. 选择使用nvm和npm的Node.js的最新稳定版（带有LTS的就是稳定版），并使用代码下载
 ```bash
 # 下载并安装 Chocolatey：

@@ -39,16 +39,16 @@ dpkg -l | grep kali-linux
 - **更新时碰见问题这样选**
 
 no
-![](src/content/posts/Linux/系统安装/kali下载好后必做的配置/附件/kali下载好后必做的配置1.jpg)
+![](kali下载好后必做的配置1.jpg)
 
 不填
-![![](src/content/posts/Linux/系统安装/kali下载好后必做的配置/附件/kali下载好后必做的配置2.jpg)
+![](kali下载好后必做的配置2.jpg)
 
 ok
-![](src/content/posts/Linux/系统安装/kali下载好后必做的配置/附件/kali下载好后必做的配置3.jpg)
+![](kali下载好后必做的配置3.jpg)
 
 空格键勾选，上下左右键移动，tab键移动光标位置，enter键确定
-![](src/content/posts/Linux/系统安装/kali下载好后必做的配置/附件/kali下载好后必做的配置4.jpg)
+![](kali下载好后必做的配置4.jpg)
 
 ---
 ## 2.中文输入法设置
@@ -85,11 +85,11 @@ ibus-setup  //启动 IBus 配置工具,会有图形化界面，在里面配置
 - **设置键盘输入法**：
     - 在 **Input Sources**（输入源）下，点击 **+**，选择 **Chinese**（中文），然后选择你之前安装的拼音输入法（如 **Pinyin** 或 **Libpinyin**）。
     - 点击 **Add** 添加。
-2. 输入法设置都比较简单，[KDE桌面看这里](/Debian系统KDE桌面环境输入法与权限设置/)
+2. 输入法设置都比较简单，[KDE桌面看这里](/posts/systemdownload/input-method-and-permission-settings-for-kde-desktop-environment-on-debian-system/)
 ---
 ## 3.安装nvidia驱动
 - kali中安装NVIDIA驱动非常简单，不需要建立黑名单之类的
-- 具体流程看：[Kali系统安装NVIDIA显卡驱动指南](/Kali系统安装NVIDIA显卡驱动指南/)
+- 具体流程看：[Kali系统安装NVIDIA显卡驱动指南](/posts/systemdownload/kali-system-installation-guid-for-nvidia-graphics-card-drivers/)
 
 ---
 ## 4.安装软件
@@ -104,4 +104,4 @@ sudo apt purge 软件名
 - VPN工具使用的是FIclash和红岸云
 - Obsidian和Syncthing可以正常使用（Syncthing是 `.tar.gz` 的压缩包，使用方法：解压到喜欢的文件夹下，然后打开解压后的文件夹，找到 Syncthing 文件，右键后点击**执行**，配置页面在[http://localhost:8384/](http://localhost:8384/)）
 - Steam可以下在并运行，但需要下载兼容工具
-![](src/content/posts/Linux/系统安装/kali下载好后必做的配置/附件/linux饥荒兼容性.png)
+![](linux饥荒兼容性.png)
