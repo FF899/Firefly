@@ -82,7 +82,7 @@ ibus-setup  //启动 IBus 配置工具,会有图形化界面，在里面配置
     - 在设置中，选择 **Region & Language**（地区与语言）选项。
 - **更改语言**：
     - 在 **Language** 选项中，选择 **Chinese**（中文）。你可以选择简体中文或繁体中文，这样整个系统的语言将切换为中文。
-- **设置键盘输入法**：
+%%  %%- **设置键盘输入法**：
     - 在 **Input Sources**（输入源）下，点击 **+**，选择 **Chinese**（中文），然后选择你之前安装的拼音输入法（如 **Pinyin** 或 **Libpinyin**）。
     - 点击 **Add** 添加。
 2. 输入法设置都比较简单，[KDE桌面看这里](/posts/systemdownload/input-method-and-permission-settings-for-kde-desktop-environment-on-debian-system/)

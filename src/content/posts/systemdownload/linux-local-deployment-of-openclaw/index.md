@@ -8,7 +8,6 @@ tags:
 category: OpenClaw
 draft: false
 ---
-%%  %%
 > 为了安全性，最好还是放在Docker或虚拟机里
 
 # 1. 下载nodejs

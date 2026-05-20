@@ -10,10 +10,10 @@ category: 系统安装
 draft: false
 ---
 # 准备工作
-1. **制作启动U盘**，这边用的是[ventoy](ventoy启动U盘制作笔记.md)
+1. **制作启动U盘**，这边用的是[ventoy](/posts/systemdownload/)
 2. 进入官网**下载kali everything** `.torrent` 后缀的文件
 3. 我用的是Debian系统，**下载qbittorrent工具**，导入 `.torrent` 后缀的文件**下载everything的ISO镜像**，并**校验SHA256（校验文件）**
-	- [qbittorrent下载.torront文件校验对比安装包教程](qbittorrent下载.torront文件校验对比安装包教程.md)
+	- [qbittorrent下载.torront文件校验对比安装包教程](/posts/systemdownload/qbittorrent/)
 4. **确定ISO镜像文件安全**，则可以**导入ventoy启动u盘**准备安装
 # Kali-linux -2025-4-installer-everything-amd64.iso安装
 ## 进入启动菜单
