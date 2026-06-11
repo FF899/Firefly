@@ -2,7 +2,7 @@
 title: 📒 HTML 标签全分类
 published: 2026-05-25
 description: 基于 WHATWG HTML Living Standard · 中文释义 · 标签名链接到 MDN 中文文档
-image: /assets/images/miao.png
+image: /assets/images/绿草.png
 tags:
   - html
 category: 前端

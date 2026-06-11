@@ -1,7 +1,7 @@
 ---
 title: Debian系统KDE桌面环境输入法与权限设置
 published: 2026-05-20
-image: /assets/images/miao.png
+image: /assets/images/蓝天.png
 description: KDE桌面环境输入法设置、系统权限设置
 tags:
   - linux

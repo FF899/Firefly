@@ -2,7 +2,7 @@
 title: linuxj快捷键及触摸屏手势
 published: 2026-06-10
 description: 快捷键简直就是不喜欢用鼠标的人的福音😄
-image: /assets/images/miao.png
+image: /assets/images/大海.png
 tags:
   - linux
 category: Linux教程

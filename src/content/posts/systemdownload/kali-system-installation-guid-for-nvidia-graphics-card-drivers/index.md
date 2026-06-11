@@ -2,7 +2,7 @@
 title: Kali系统安装NVIDIA显卡驱动指南
 published: 2026-05-20
 description: 官方文档有解决办法，sudo apt install nvidia-driver就行
-image: /assets/images/miao.png
+image: /assets/images/比奇堡.png
 tags:
   - linux
   - kali安装

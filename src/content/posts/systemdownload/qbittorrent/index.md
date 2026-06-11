@@ -2,7 +2,7 @@
 title: qbittorrent下载.torront文件校验对比安装包教程
 published: 2026-05-20
 description: 下载 Kali Everything 的 .torrent 文件教程
-image: /assets/images/miao.png
+image: /assets/images/绿地.png
 tags:
   - kali安装
 category: 系统安装

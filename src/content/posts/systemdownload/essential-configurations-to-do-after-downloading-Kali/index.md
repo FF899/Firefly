@@ -2,7 +2,7 @@
 title: kali下载好后必做的配置
 published: 2026-05-20
 description: 文章内包括中文输入法设置、安装显卡驱动、安装软件教程
-image: /assets/images/miao.png
+image: /assets/images/绿地.png
 tags:
   - linux
   - kali安装

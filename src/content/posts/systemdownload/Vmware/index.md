@@ -2,7 +2,7 @@
 title: vmware安装、使用、卸载——主机Kali Linux
 published: 2026-05-21
 description: vmware拆裝卸及兼容问题解决办法、win10激活碼、bundle包安裝方法
-image: /assets/images/miao.png
+image: /assets/images/大海.png
 tags:
   - VMware
 category: 系统安装

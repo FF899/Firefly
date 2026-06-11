@@ -2,7 +2,7 @@
 title: Kali_everything_离线安装全流程指南
 published: 2026-05-20
 description: 物理机安装Kali教程，内容包含制作启动U盘、进入启动菜单、具体安装流程。
-image: /assets/images/miao.png
+image: /assets/images/绿地.png
 tags:
   - linux
   - kali安装

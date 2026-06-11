@@ -2,7 +2,7 @@
 title: 网页基本结构拆解
 published: 2026-05-24
 description: 声明，根元素，头部元素，主体元素解析
-image: /assets/images/miao.png
+image: /assets/images/比奇堡.png
 tags:
   - html
 category: 前端
